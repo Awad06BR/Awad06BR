@@ -1,4 +1,4 @@
-# Olá meu nome é Miguel, 
+# Olá, meu nome é Miguel, 
 
 Estudante de ciencias da computação, com vontade de aprender mais e mais sobre desenvolvimento backend e frontend!
 

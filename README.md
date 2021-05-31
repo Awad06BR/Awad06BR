@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[! [Estatísticas GitHub de Awad06BR] (https://github-readme-stats.vercel.app/api ? Username = Awad06BR )] (https://github.com/Awad06BR/github-readme-stats)
+
+
 <!--
 **Awad06BR/Awad06BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

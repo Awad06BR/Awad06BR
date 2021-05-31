@@ -1,7 +1,8 @@
 ![Wallpaper](https://user-images.githubusercontent.com/38568147/120246509-d14e4900-c246-11eb-98ce-c0be687f92cf.png)
 
-##Olá meu nome é Miguel, 
-Estudante de ciencias da computação, com vontade de aprender mais e mais sobre desenvolvimento backend e frontend
+# Olá meu nome é Miguel, 
+
+Estudante de ciencias da computação, com vontade de aprender mais e mais sobre desenvolvimento backend e frontend!
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Awad06BR)
